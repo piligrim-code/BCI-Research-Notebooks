@@ -1,0 +1,7 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
+torch>=2.5,<3
+optuna>=4,<5
+mne>=1.8,<2
+matplotlib>=3.9,<4
